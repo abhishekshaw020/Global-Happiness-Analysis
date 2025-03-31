@@ -29,12 +29,8 @@ Beyond GDP and emissions, happiness is significantly influenced by **health life
 - **Python (Pandas, NumPy)** for data preprocessing and cleansing.
 - **Data storytelling techniques** to drive actionable insights.
 
-## 🚀 Future Scope
-- Expand analysis to **predict CO₂ impact on happiness trends** using machine learning models.
-- Develop a **real-time Power BI dashboard** for tracking global CO₂ and well-being indicators.
-- Include **renewable energy adoption trends** to assess sustainability progress.
 
-## 📢 Conclusion
+## 📢 Final Thoughts
 This project reveals the **complex tradeoffs between industrial growth, environmental impact, and human happiness**. While **economic progress can boost well-being, unchecked CO₂ emissions pose long-term risks to sustainability and quality of life**. A balanced approach, integrating **clean energy, social development, and environmental consciousness**, is essential for a happier and healthier future.
 
 🌟 **Let’s create a world where both prosperity and sustainability thrive!** 🌟
